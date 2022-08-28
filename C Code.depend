@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1653800298 source:c:\c  prog practice\c code\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1653800298 c:\c  prog practice\c code\conio2.h
+	<conio.h>
+	<windows.h>
+
+1654976825 source:c:\c  prog practice\c code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio2.h"
+	<dir.h>
+	"mtb.h"
+	<errno.h>
+
+1655023005 c:\c  prog practice\c code\mtb.h
+	<time.h>
+
+1656232736 source:c:\c  prog practice\c code\mtb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1656233029 source:c:\c  prog practice\c code\librarymanegment.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+
+1656671763 source:c:\c  prog practice\c code\airline project.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+
+1659029468 source:c:\c  prog practice\c code\demo1.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1659379398 source:c:\c  prog practice\c code\demo2.c
+	<stdio.h>
+
+1659438497 source:c:\c  prog practice\c code\swap.c
+	<stdio.h>
+
+1659461537 source:c:\c  prog practice\c code\assci.c
+	<stdio.h>
+
+1659462037 source:c:\c  prog practice\c code\examole.c
+	<stdio.h>
+
+1659463743 source:c:\c  prog practice\c code\adddiff.c
+	<stdio.h>
+
+1659464409 source:c:\c  prog practice\c code\checkdigit.c
+	<stdio.h>
+
+1659466922 source:c:\c  prog practice\c code\checkvowelc.c
+	<stdio.h>
+
+1659522747 source:c:\c  prog practice\c code\whileloop.c
+	<stdio.h>
+
+1659523576 source:c:\c  prog practice\c code\forloop.c
+	<stdio.h>
+
+1659524055 source:c:\c  prog practice\c code\while2.c
+	<stdio.h>
+
+1659524861 source:c:\c  prog practice\c code\forloop2.c
+	<stdio.h>
+
+1659525977 source:c:\c  prog practice\c code\factorial.c
+	<stdio.h>
+
+1659526372 source:c:\c  prog practice\c code\demestring.c
+	<stdio.h>
+
+1659527387 source:c:\c  prog practice\c code\2darray2..c
+	<stdio.h>
+
+1660993247 source:c:\c  prog practice\c code\helo wold.c
+	<conio.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
